@@ -2,6 +2,7 @@
 - hi, Tôi là Hạnh
 - Tôi sống ở Hà Nội
 - Tôi đang tìm hiểu Github
+
 echo "# hanhne262.github" >> README.md
 git init
 git add README.md
